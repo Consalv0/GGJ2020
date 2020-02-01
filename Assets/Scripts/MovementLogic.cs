@@ -2,17 +2,36 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class MovementLogic : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public float xMaxInputVelocity;
+    public float damping = 0.1F;
+
+    private new Rigidbody2D rigidbody;
+    private float currentDamping = 0;
+
+    private void Start()
     {
-        
+        rigidbody = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Update()
     {
-        
+        float horizontalAxis = Input.GetAxis("Horizontal");
+        float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
+        Vector2 currentVelocity = rigidbody.velocity;
+        if (Mathf.Abs(xMovement) >= 0.1F)
+        {
+            currentDamping = 1;
+        }
+
+        float maxVelocity = currentDamping * Mathf.Abs(xMaxInputVelocity);
+        float targetXVelocity = Mathf.Clamp(currentVelocity.x + xMovement, -maxVelocity, maxVelocity);
+
+        rigidbody.velocity = new Vector2(targetXVelocity, currentVelocity.y);
+
+        currentDamping -= Time.deltaTime * damping;
+        currentDamping = Mathf.Clamp01(currentDamping);
     }
 }
