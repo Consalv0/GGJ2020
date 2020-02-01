@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore plugins
+/[Aa]ssets/ProCore/
+/[Aa]ssets/ProCore.meta
+/[Aa]ssets/AmplifyShaderEditor/
+/[Aa]ssets/AmplifyShaderEditor.meta
