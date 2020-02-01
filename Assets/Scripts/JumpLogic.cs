@@ -10,7 +10,6 @@ public class JumpLogic : MonoBehaviour
 	public float jumpVelocity;
 	public float fallMultiplier = 2.5f;
 	public float lowJumpMultiplier = 2f;
-	public float maxVelocityY;
 	public float jumpTime;
 
 	private bool isJumping;

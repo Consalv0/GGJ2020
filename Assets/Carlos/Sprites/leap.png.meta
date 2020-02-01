@@ -1,0 +1,2695 @@
+fileFormatVersion: 2
+guid: 83c07e6e3289ec8489ca400f4d4029f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2058102481636132610
+    second: leap_0
+  - first:
+      213: 172082661581711764
+    second: leap_1
+  - first:
+      213: -4255016157463116734
+    second: leap_2
+  - first:
+      213: -1655536618237752640
+    second: leap_3
+  - first:
+      213: -5491470399910423670
+    second: leap_4
+  - first:
+      213: -5361097173023571612
+    second: leap_5
+  - first:
+      213: -6947119107873248759
+    second: leap_6
+  - first:
+      213: -8343900786343355341
+    second: leap_7
+  - first:
+      213: -4940097928529464538
+    second: leap_8
+  - first:
+      213: -7358561556938714983
+    second: leap_9
+  - first:
+      213: 8770271585377051406
+    second: leap_10
+  - first:
+      213: -1046988197257165581
+    second: leap_11
+  - first:
+      213: -6182974035204038596
+    second: leap_12
+  - first:
+      213: -620003242497545026
+    second: leap_13
+  - first:
+      213: -9081051847238753658
+    second: leap_14
+  - first:
+      213: -3968358014635162544
+    second: leap_15
+  - first:
+      213: -6845253214534775323
+    second: leap_16
+  - first:
+      213: -5784481132144691614
+    second: leap_17
+  - first:
+      213: 4556841371841095668
+    second: leap_18
+  - first:
+      213: -1198376809192088931
+    second: leap_19
+  - first:
+      213: 8436723630612165458
+    second: leap_20
+  - first:
+      213: 6322704487850757164
+    second: leap_21
+  - first:
+      213: 5464967146222978216
+    second: leap_22
+  - first:
+      213: 5294402687253899510
+    second: leap_23
+  - first:
+      213: -7909407166157310540
+    second: leap_24
+  - first:
+      213: 6405706700906813711
+    second: leap_25
+  - first:
+      213: 8001437844415020451
+    second: leap_26
+  - first:
+      213: -4389053778211122411
+    second: leap_27
+  - first:
+      213: 4405434981846675502
+    second: leap_28
+  - first:
+      213: 5042089795275064226
+    second: leap_29
+  - first:
+      213: 2367314890792674154
+    second: leap_30
+  - first:
+      213: -6724356352773204603
+    second: leap_31
+  - first:
+      213: 3032242577780424942
+    second: leap_32
+  - first:
+      213: 4796530383628261987
+    second: leap_33
+  - first:
+      213: 362272048065385322
+    second: leap_34
+  - first:
+      213: -4270908104818660813
+    second: leap_35
+  - first:
+      213: -5763163430400804998
+    second: leap_36
+  - first:
+      213: 2893577102157273280
+    second: leap_37
+  - first:
+      213: -1356384780477177733
+    second: leap_38
+  - first:
+      213: 1819760409210631354
+    second: leap_39
+  - first:
+      213: 7813348608322751378
+    second: leap_40
+  - first:
+      213: -971437778834778061
+    second: leap_41
+  - first:
+      213: -2342319311769562552
+    second: leap_42
+  - first:
+      213: 822508281775458581
+    second: leap_43
+  - first:
+      213: -3658001045516077274
+    second: leap_44
+  - first:
+      213: 9055950972592994930
+    second: leap_45
+  - first:
+      213: -8635574808995142635
+    second: leap_46
+  - first:
+      213: -6918506490660292133
+    second: leap_47
+  - first:
+      213: -8365019641295787279
+    second: leap_48
+  - first:
+      213: 6988885919552525846
+    second: leap_49
+  - first:
+      213: -5131175816869292320
+    second: leap_50
+  - first:
+      213: -7932628199122412179
+    second: leap_51
+  - first:
+      213: 2561261280561729235
+    second: leap_52
+  - first:
+      213: -6741517325251101427
+    second: leap_53
+  - first:
+      213: -3819150615442078313
+    second: leap_54
+  - first:
+      213: -7050601853922797900
+    second: leap_55
+  - first:
+      213: -4546254531640780969
+    second: leap_56
+  - first:
+      213: -7214973992702382977
+    second: leap_57
+  - first:
+      213: 8167574007456472535
+    second: leap_58
+  - first:
+      213: -69910043776475164
+    second: leap_59
+  - first:
+      213: -2823157123581070579
+    second: leap_60
+  - first:
+      213: -8953285760097733184
+    second: leap_61
+  - first:
+      213: -7909877473062176629
+    second: leap_62
+  - first:
+      213: 5013500293472287474
+    second: leap_63
+  - first:
+      213: 2386181344133249037
+    second: leap_64
+  - first:
+      213: 3566464117661858435
+    second: leap_65
+  - first:
+      213: -6647955162646896543
+    second: leap_66
+  - first:
+      213: 4108349965826083624
+    second: leap_67
+  - first:
+      213: 4973622754373013327
+    second: leap_68
+  - first:
+      213: -4108950590523469753
+    second: leap_69
+  - first:
+      213: -6758910739589776861
+    second: leap_70
+  - first:
+      213: 7326709428207684183
+    second: leap_71
+  - first:
+      213: -4793846522574776909
+    second: leap_72
+  - first:
+      213: -4205598547723049448
+    second: leap_73
+  - first:
+      213: 8333375542128505374
+    second: leap_74
+  - first:
+      213: 5379862287786854453
+    second: leap_75
+  - first:
+      213: 2459549315059900014
+    second: leap_76
+  - first:
+      213: 6905877692524415895
+    second: leap_77
+  - first:
+      213: -2548142864951803262
+    second: leap_78
+  - first:
+      213: 2632075520479392760
+    second: leap_79
+  - first:
+      213: 493765039932444471
+    second: leap_80
+  - first:
+      213: 1316908440033556167
+    second: leap_81
+  - first:
+      213: -2350990404837541931
+    second: leap_82
+  - first:
+      213: -7768945964659154298
+    second: leap_83
+  - first:
+      213: 468782383449774026
+    second: leap_84
+  - first:
+      213: -6320004937431508257
+    second: leap_85
+  - first:
+      213: 353594539327762546
+    second: leap_86
+  - first:
+      213: 8000036694050654032
+    second: leap_87
+  - first:
+      213: 3788897822262771429
+    second: leap_88
+  - first:
+      213: -5798201989698994847
+    second: leap_89
+  - first:
+      213: 936432213616090128
+    second: leap_90
+  - first:
+      213: 1257077104343295557
+    second: leap_91
+  - first:
+      213: -7804338576447875830
+    second: leap_92
+  - first:
+      213: 8017531494390639510
+    second: leap_93
+  - first:
+      213: 1242870256995760737
+    second: leap_94
+  - first:
+      213: 2592903131486396320
+    second: leap_95
+  - first:
+      213: 7124952932459050838
+    second: leap_96
+  - first:
+      213: 1527658881559964693
+    second: leap_97
+  - first:
+      213: -5720854043056262858
+    second: leap_98
+  - first:
+      213: 5451932662825987479
+    second: leap_99
+  - first:
+      213: 3863704645390918870
+    second: leap_100
+  - first:
+      213: -9131586415797634240
+    second: leap_101
+  - first:
+      213: -4824351159321436238
+    second: leap_102
+  - first:
+      213: -2649395993953146893
+    second: leap_103
+  - first:
+      213: 1775240412855842076
+    second: leap_104
+  - first:
+      213: 3384874694092899719
+    second: leap_105
+  - first:
+      213: -5393578773820123647
+    second: leap_106
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leap_0
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 163
+        width: 924
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87abe72b62073e0800000000000000
+      internalID: -2058102481636132610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_1
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 832
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e49bd44c536200800000000000000
+      internalID: 172082661581711764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_2
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 831
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2440ddc495523f4c0800000000000000
+      internalID: -4255016157463116734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 802
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8945973a5609e0800000000000000
+      internalID: -1655536618237752640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 801
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8354ce24c06ac3b0800000000000000
+      internalID: -5491470399910423670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_5
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 785
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4614493868e8995b0800000000000000
+      internalID: -5361097173023571612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_6
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 805
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae2e29affd69f90800000000000000
+      internalID: -6947119107873248759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_7
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 788
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd6e45172843c80800000000000000
+      internalID: -8343900786343355341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_8
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623bb569b1f317bb0800000000000000
+      internalID: -4940097928529464538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 754
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99092d4504321e990800000000000000
+      internalID: -7358561556938714983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_10
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 787
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e91e3a8346b970800000000000000
+      internalID: 8770271585377051406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_11
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 782
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c57228c95871f0800000000000000
+      internalID: -1046988197257165581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 775
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302330bfd9a13aa0800000000000000
+      internalID: -6182974035204038596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 773
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce75bf55e4567f0800000000000000
+      internalID: -620003242497545026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_14
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 740
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ed6a557f99f180800000000000000
+      internalID: -9081051847238753658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_15
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 761
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054c814396f8de8c0800000000000000
+      internalID: -3968358014635162544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_16
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 766
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edcd061876c001a0800000000000000
+      internalID: -6845253214534775323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 762
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f09cce0569bfa0800000000000000
+      internalID: -5784481132144691614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_18
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 131
+        width: 866
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76462a5172d3f30800000000000000
+      internalID: 4556841371841095668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 752
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1a0d24a28e5fe0800000000000000
+      internalID: -1198376809192088931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 743
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25338ce3173451570800000000000000
+      internalID: 8436723630612165458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 737
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ccc1a8b32ceb750800000000000000
+      internalID: 6322704487850757164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_22
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 730
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a40dc33aa677db40800000000000000
+      internalID: 5464967146222978216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_23
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 708
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f864af613f797940800000000000000
+      internalID: 5294402687253899510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_24
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 720
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b34596142c3290800000000000000
+      internalID: -7909407166157310540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_25
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 712
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d3ea3e44a5e850800000000000000
+      internalID: 6405706700906813711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_26
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 705
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad79b87351da0f60800000000000000
+      internalID: 8001437844415020451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 700
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513d3a9c7d2f613c0800000000000000
+      internalID: -4389053778211122411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_28
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 695
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20fc0666cf332d30800000000000000
+      internalID: 4405434981846675502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_29
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 680
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30ef464f919f540800000000000000
+      internalID: 5042089795275064226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_30
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 698
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a031c9546ad020800000000000000
+      internalID: 2367314890792674154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_31
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 702
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585dfc936894ea2a0800000000000000
+      internalID: -6724356352773204603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 691
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0ca691f80b41a20800000000000000
+      internalID: 3032242577780424942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_33
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 691
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ad78688f2b09240800000000000000
+      internalID: 4796530383628261987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 682
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639df0228c070500800000000000000
+      internalID: 362272048065385322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 844
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a62f7f4bfaab4c0800000000000000
+      internalID: -4270908104818660813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_36
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 682
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77307405612500b0800000000000000
+      internalID: -5763163430400804998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_37
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 680
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d9482b0d082820800000000000000
+      internalID: 2893577102157273280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 668
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7069e48a372d2de0800000000000000
+      internalID: -1356384780477177733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_39
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 661
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b15f5376114910800000000000000
+      internalID: 1819760409210631354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_40
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 617
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bce5199279e6c60800000000000000
+      internalID: 7813348608322751378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_41
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 656
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338982fac72c482f0800000000000000
+      internalID: -971437778834778061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_42
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 617
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842107ffef86e7fd0800000000000000
+      internalID: -2342319311769562552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_43
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 617
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190b08ace22a6b00800000000000000
+      internalID: 822508281775458581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_44
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 651
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627b1061e6b2c3dc0800000000000000
+      internalID: -3658001045516077274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_45
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 617
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a32c8dd633dad70800000000000000
+      internalID: 9055950972592994930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_46
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 59
+        width: 822
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146886e676482880800000000000000
+      internalID: -8635574808995142635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_47
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 649
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd975f7a0078cff90800000000000000
+      internalID: -6918506490660292133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_48
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 638
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa266db4fa79eb80800000000000000
+      internalID: -8365019641295787279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_49
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 630
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61658a217b28df060800000000000000
+      internalID: 6988885919552525846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_50
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 642
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65e6bd7c66ac8b0800000000000000
+      internalID: -5131175816869292320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_51
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 620
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ddf088ea4a9e190800000000000000
+      internalID: -7932628199122412179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_52
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 616
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de08d4809d6b8320800000000000000
+      internalID: 2561261280561729235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_53
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 630
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3445f5b15172a0800000000000000
+      internalID: -6741517325251101427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_54
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954cdeffb6affac0800000000000000
+      internalID: -3819150615442078313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_55
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6983438fa372e90800000000000000
+      internalID: -7050601853922797900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_56
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 602
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7579a0f279578e0c0800000000000000
+      internalID: -4546254531640780969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_57
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 598
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cea4551634fdb90800000000000000
+      internalID: -7214973992702382977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_58
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd182f394d095170800000000000000
+      internalID: 8167574007456472535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_59
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 548
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef98728f21a70ff0800000000000000
+      internalID: -69910043776475164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_60
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 514
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0336d7cd8122d8d0800000000000000
+      internalID: -2823157123581070579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_61
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 485
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5bfc8a90a8fb380800000000000000
+      internalID: -8953285760097733184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_62
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 496
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b349b8587a3290800000000000000
+      internalID: -7909877473062176629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_63
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 482
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa7bb944f7839540800000000000000
+      internalID: 5013500293472287474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_64
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 470
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08f9ba3a4b6d1120800000000000000
+      internalID: 2386181344133249037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_65
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 460
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a79651830ae7130800000000000000
+      internalID: 3566464117661858435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_66
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 460
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16025bf7008bdb3a0800000000000000
+      internalID: -6647955162646896543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_67
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 423
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4d06e68ac30930800000000000000
+      internalID: 4108349965826083624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_68
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 421
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f04313b8bd50540800000000000000
+      internalID: 4973622754373013327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_69
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 423
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740973445331af6c0800000000000000
+      internalID: -4108950590523469753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_70
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 436
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abd2a1e768332a0800000000000000
+      internalID: -6758910739589776861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_71
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 434
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a03d80863bda560800000000000000
+      internalID: 7326709428207684183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_72
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 423
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b550329cf5d87db0800000000000000
+      internalID: -4793846522574776909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_73
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 421
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a11f2766b2a5c0800000000000000
+      internalID: -4205598547723049448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_74
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 430
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e127f7847e816a370800000000000000
+      internalID: 8333375542128505374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_75
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 430
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384e0c3f3c19aa40800000000000000
+      internalID: 5379862287786854453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_76
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 407
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e53bf1213122220800000000000000
+      internalID: 2459549315059900014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_77
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 418
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b46352c2b96df50800000000000000
+      internalID: 6905877692524415895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_78
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2820a91a09d23acd0800000000000000
+      internalID: -2548142864951803262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_79
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 386
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3fc249db2078420800000000000000
+      internalID: 2632075520479392760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_80
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 396
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f0eaf00b43ad600800000000000000
+      internalID: 493765039932444471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_81
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 382
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f9e9bf39964210800000000000000
+      internalID: 1316908440033556167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_82
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 365
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77e41deaa9f5fd0800000000000000
+      internalID: -2350990404837541931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_83
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 351
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68269498ec82f2490800000000000000
+      internalID: -7768945964659154298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_84
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 365
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac71c721813718600800000000000000
+      internalID: 468782383449774026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_85
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 322
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1ea58ef4da48a0800000000000000
+      internalID: -6320004937431508257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_86
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 308
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270362f2c5838e400800000000000000
+      internalID: 353594539327762546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_87
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 322
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057cafabcf6d50f60800000000000000
+      internalID: 8000036694050654032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_88
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 305
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3932be7ed49430800000000000000
+      internalID: 3788897822262771429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_89
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 291
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d3704b206a88fa0800000000000000
+      internalID: -5798201989698994847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_90
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 305
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd1d80320eefc00800000000000000
+      internalID: 936432213616090128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_91
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546a8a357f8027110800000000000000
+      internalID: 1257077104343295557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_92
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0552f3f96b61b390800000000000000
+      internalID: -7804338576447875830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_93
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 286
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b29aa5a6ef34f60800000000000000
+      internalID: 8017531494390639510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_94
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 272
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a712ae9ef8f3110800000000000000
+      internalID: 1242870256995760737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_95
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 266
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9e3909a7dbf320800000000000000
+      internalID: 2592903131486396320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_96
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 261
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657799441fae0e260800000000000000
+      internalID: 7124952932459050838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_97
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 267
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2a5da8a5533510800000000000000
+      internalID: 1527658881559964693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_98
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 252
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63136c7ee817b90b0800000000000000
+      internalID: -5720854043056262858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_99
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 220
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da71b0fd729ab40800000000000000
+      internalID: 5451932662825987479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_100
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d46d8977e2ae9530800000000000000
+      internalID: 3863704645390918870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_101
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 205
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b799a3986164180800000000000000
+      internalID: -9131586415797634240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_102
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 211
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd6ec5e267c0db0800000000000000
+      internalID: -4824351159321436238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_103
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 170
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7641f61647b3bd0800000000000000
+      internalID: -2649395993953146893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_104
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 159
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15b037ffbbe2a810800000000000000
+      internalID: 1775240412855842076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_105
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785cd96b99d79fe20800000000000000
+      internalID: 3384874694092899719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leap_106
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 158
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1065d5e7ea82625b0800000000000000
+      internalID: -5393578773820123647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d221d0b8f92ec34a91bd763b3ae9e45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

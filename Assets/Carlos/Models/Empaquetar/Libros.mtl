@@ -1,0 +1,12 @@
+newmtl Liblo_01
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd S:Trabajo/Game Jam 2020/Imagenes de referencia/Tex_sala_v001.psd
+
