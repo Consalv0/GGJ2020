@@ -16,7 +16,7 @@ public class MovementLogic : MonoBehaviour
         rigidbody = GetComponent<Rigidbody2D>();
     }
 
-    public void Update()
+    public void FixedUpdate()
     {
         float horizontalAxis = Input.GetAxis("Horizontal");
         float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
@@ -24,14 +24,15 @@ public class MovementLogic : MonoBehaviour
         if (Mathf.Abs(xMovement) >= 0.1F)
         {
             currentDamping = 1;
+        } else
+        {
+            currentDamping -= Time.deltaTime * damping;
+            currentDamping = Mathf.Clamp01(currentDamping);
         }
 
         float maxVelocity = currentDamping * Mathf.Abs(xMaxInputVelocity);
         float targetXVelocity = Mathf.Clamp(currentVelocity.x + xMovement, -maxVelocity, maxVelocity);
 
         rigidbody.velocity = new Vector2(targetXVelocity, currentVelocity.y);
-
-        currentDamping -= Time.deltaTime * damping;
-        currentDamping = Mathf.Clamp01(currentDamping);
     }
 }
