@@ -19,12 +19,13 @@ public class DayTimer : MonoBehaviour
     private float totalTime;
 
     [SerializeField]
-    private int badDays;
+    public int badDays;
 
     [SerializeField]
-    private int goodDays;
+    public int goodDays;
 
-    public Text timeLeft;
+    [SerializeField]
+    private Text timeLeft;
 
     [SerializeField]
     private Text daysLeft;

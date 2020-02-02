@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2facb533f8a6ca547b259c8a9fd581a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goodMusic1: {fileID: 8300000, guid: 27d0fa11d9e87a343a6dea6604e989a9, type: 3}
+  - goodMusic2: {fileID: 8300000, guid: e3c3a300326319b40b2c2eaa1eda29d9, type: 3}
+  - badMusic1: {fileID: 8300000, guid: 0fe846d6e65033444a5cca0d95658b02, type: 3}
+  - badMusic2: {fileID: 8300000, guid: f4c3e538e481b5b4ab2693d278c14eed, type: 3}
+  - neutralMusic: {fileID: 8300000, guid: 1ed6408e4151b6d4ca1281cc2a11d817, type: 3}
+  - audio: {instanceID: 0}
+  - day: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
