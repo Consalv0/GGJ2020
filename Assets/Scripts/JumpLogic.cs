@@ -21,6 +21,7 @@ public class JumpLogic : MonoBehaviour
     {
 		rb2D = GetComponent<Rigidbody2D>();
 		jumpTimeCounter = jumpTime;
+		//
 	}
 
 	void OnCollisionEnter2D(Collision2D col)
@@ -42,15 +43,19 @@ public class JumpLogic : MonoBehaviour
 			
 			jumpTimeCounter = jumpTime;
 
+			GetComponent<Animator>().SetBool("isJumping", true);
+
 		}
 
 		if (rb2D.velocity.y < 0)
 		{
 			rb2D.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
+			GetComponent<Animator>().SetBool("isJumping", false);
 		}
 		else if (rb2D.velocity.y > 0 && Input.GetKeyUp(KeyCode.Space))
 		{
 			rb2D.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
+			//GetComponent<Animator>().SetBool("isJumping", true);
 		}
 
 		if (Input.GetKey(KeyCode.Space) && isJumping==true)
@@ -66,6 +71,7 @@ public class JumpLogic : MonoBehaviour
 		if (Input.GetKeyUp(KeyCode.Space))
 		{
 			isJumping = false;
+
 		}
 	}
 }

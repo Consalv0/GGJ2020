@@ -21,12 +21,14 @@ public class MovementLogic : MonoBehaviour
         float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
         Vector2 currentVelocity = rigidbody.velocity;
 
-       // if (horizontalAxis == 1 || horizontalAxis == -1)
-            GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
-        //else
-        //    GetComponent<Animator>().SetBool("Walking", false);
+		GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
 
-        if (Mathf.Abs(xMovement) >= 0.1F)
+		if (horizontalAxis <= -0.01)
+			transform.localScale = new Vector3(-1, 1, 1);
+		else if(horizontalAxis>=0.01)
+			transform.localScale = new Vector3(1, 1, 1);
+
+		if (Mathf.Abs(xMovement) >= 0.1F)
         {
             currentDamping = 1;
         }
@@ -35,6 +37,8 @@ public class MovementLogic : MonoBehaviour
             currentDamping -= Time.deltaTime * damping;
             currentDamping = Mathf.Clamp01(currentDamping);
         }
+
+
 
         float maxVelocity = currentDamping * Mathf.Abs(xMaxInputVelocity);
         float targetXVelocity = Mathf.Clamp(currentVelocity.x + xMovement, -maxVelocity, maxVelocity);
