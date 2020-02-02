@@ -10,7 +10,7 @@ public class TestScriptAnimator : MonoBehaviour
    {
        if(animTest.GetCurrentAnimatorStateInfo(0).IsName("Back"))
        {
-
+           
        }
    }
 

@@ -13,6 +13,8 @@ public class Path : MonoBehaviour
     private int currentPoint;
     private bool canStop;
 
+    public bool detect = false;
+
 
     // Update is called once per frame
     void Update()
@@ -22,29 +24,34 @@ public class Path : MonoBehaviour
 
     private void Move()
     {
-        if (currentPoint > wayPoints.Count - 1)
-        {
-            currentPoint = 0;
-            return;
-        }
-        canStop = wayPoints[currentPoint].stop;
-        Vector3 vector = wayPoints[currentPoint].points.position - transform.position;
 
-        transform.Translate(vector.normalized * speed * Time.deltaTime, Space.World);
-
-        if (Vector3.Distance(transform.position, wayPoints[currentPoint].points.position) < limitDistance)
+        if (!detect)
         {
-            if (canStop)
+
+
+            if (currentPoint > wayPoints.Count - 1)
             {
-                canStop = !wayPoints[currentPoint].CheckStopTime();
-                
-                if (canStop)
-                    return;
+                currentPoint = 0;
+                return;
             }
-            currentPoint++;
+            canStop = wayPoints[currentPoint].stop;
+            Vector3 vector = wayPoints[currentPoint].points.position - transform.position;
+
+            transform.Translate(vector.normalized * speed * Time.deltaTime, Space.World);
+
+            if (Vector3.Distance(transform.position, wayPoints[currentPoint].points.position) < limitDistance)
+            {
+                if (canStop)
+                {
+                    canStop = !wayPoints[currentPoint].CheckStopTime();
+
+                    if (canStop)
+                        return;
+                }
+                currentPoint++;
+            }
+
         }
-
-
     }
 }
 
