@@ -1,0 +1,12 @@
+newmtl Material
+Kd 0.2 0.2 0.2
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0 0 0
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+map_Kd S:Trabajo/Game Jam 2020/Imagenes de referencia/tex_llave.psd
+
