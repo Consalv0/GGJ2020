@@ -1456,7 +1456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   xMaxInputVelocity: 1.4
-  damping: 100
+  damping: 150
 --- !u!95 &917981716
 Animator:
   serializedVersion: 3
