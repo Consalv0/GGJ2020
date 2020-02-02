@@ -20,7 +20,8 @@ public class MovementLogic : MonoBehaviour
         float horizontalAxis = Input.GetAxis("Horizontal");
         float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
         Vector2 currentVelocity = rigidbody.velocity;
-
+        if(horizontalAxis!=0)
+        GetComponent<Animator>().SetBool("Hide",false);
 		GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
 
 		if (horizontalAxis <= -0.01)
