@@ -37,6 +37,7 @@ public class JumpLogic : MonoBehaviour
 	{
 		if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
 		{
+			GetComponent<Animator>().SetBool("Hide",false);
 			isJumping = true;
 			rb2D.velocity = Vector2.up * jumpVelocity;
 			isGrounded = false;

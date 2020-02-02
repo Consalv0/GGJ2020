@@ -8,9 +8,13 @@ public class TestScriptAnimator : MonoBehaviour
 
    void Update()
    {
-       if(animTest.GetCurrentAnimatorStateInfo(0).IsName("Back"))
+       if(Input.GetKeyDown(KeyCode.P))
        {
-           
+           animTest.SetTrigger("GoBack");
+       }
+       if(Input.GetKeyDown(KeyCode.F))
+       {
+           animTest.SetTrigger("GoFoward");
        }
    }
 

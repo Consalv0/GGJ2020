@@ -231,6 +231,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CatObject
       objectReference: {fileID: 0}
+    - target: {fileID: 6152330441236421405, guid: 55beee7249cd18049aedf62be2a93b54,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 24df59cdc9317a74d9a458b36c4601e0, type: 2}
     - target: {fileID: 7074604325662461157, guid: 55beee7249cd18049aedf62be2a93b54,
         type: 3}
       propertyPath: m_LocalPosition.x

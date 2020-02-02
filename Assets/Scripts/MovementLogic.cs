@@ -21,7 +21,17 @@ public class MovementLogic : MonoBehaviour
         float horizontalAxis = Input.GetAxis("Horizontal");
         float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
         Vector2 currentVelocity = rigidbody.velocity;
-        if (Mathf.Abs(xMovement) >= 0.1F)
+        
+        if(horizontalAxis!=0)
+        GetComponent<Animator>().SetBool("Hide",false);
+		GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
+
+		if (currentVelocity.x <= -0.01F)
+			transform.localScale = new Vector3(-1, 1, 1);
+		else if(currentVelocity.x >= 0.01F)
+			transform.localScale = new Vector3(1, 1, 1);
+
+		if (Mathf.Abs(xMovement) >= 0.1F)
         {
             currentDamping = 1;
         } else
