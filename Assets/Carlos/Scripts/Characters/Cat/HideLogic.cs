@@ -4,14 +4,23 @@ using UnityEngine;
 
 public class HideLogic : MonoBehaviour
 {
+
+    private Animator animator;
     public bool hide;
     public bool debug;
+
+    void Start()
+    {
+        animator=GetComponent<Animator>();
+    }
     public void Hide()
     {
+        animator.SetBool("Hide",true);
         hide = true;
     }
     public void StopHide()
     {
+        animator.SetBool("Hide",false);
         hide = false;
     }
     void Update()
@@ -19,7 +28,7 @@ public class HideLogic : MonoBehaviour
         if (debug)
         {
             if (Input.GetKeyDown(KeyCode.T))
-                hide = !hide;
+               Hide();
         }
     }
 }
