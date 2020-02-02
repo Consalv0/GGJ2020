@@ -402,6 +402,56 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &659653957
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 659653959}
+  - component: {fileID: 659653958}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &659653958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659653957}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2facb533f8a6ca547b259c8a9fd581a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goodMusic1: {fileID: 8300000, guid: 27d0fa11d9e87a343a6dea6604e989a9, type: 3}
+  goodMusic2: {fileID: 8300000, guid: e3c3a300326319b40b2c2eaa1eda29d9, type: 3}
+  badMusic1: {fileID: 8300000, guid: 0fe846d6e65033444a5cca0d95658b02, type: 3}
+  badMusic2: {fileID: 8300000, guid: f4c3e538e481b5b4ab2693d278c14eed, type: 3}
+  neutralMusic: {fileID: 8300000, guid: 1ed6408e4151b6d4ca1281cc2a11d817, type: 3}
+  audio: {fileID: 0}
+  day: {fileID: 1550947585}
+--- !u!4 &659653959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659653957}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 512, y: 384, z: -0.0000052452087}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
