@@ -6,8 +6,7 @@ using UnityEngine;
 public class MovementLogic : MonoBehaviour
 {
     public float xMaxInputVelocity;
-    public float damping = 0.1F;
-
+	public float damping = 0.1F;
     private new Rigidbody2D rigidbody;
     private float currentDamping = 0;
 
@@ -22,10 +21,10 @@ public class MovementLogic : MonoBehaviour
         float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
         Vector2 currentVelocity = rigidbody.velocity;
 
-        if (horizontalAxis == 1 || horizontalAxis == -1)
-            GetComponent<Animator>().SetBool("Walking", true);
-        else
-            GetComponent<Animator>().SetBool("Walking", false);
+       // if (horizontalAxis == 1 || horizontalAxis == -1)
+            GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
+        //else
+        //    GetComponent<Animator>().SetBool("Walking", false);
 
         if (Mathf.Abs(xMovement) >= 0.1F)
         {
