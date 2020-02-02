@@ -6,7 +6,8 @@ using UnityEngine;
 public class MovementLogic : MonoBehaviour
 {
     public float xMaxInputVelocity;
-	public float damping = 0.1F;
+    public float damping = 0.1F;
+
     private new Rigidbody2D rigidbody;
     private float currentDamping = 0;
 
@@ -20,25 +21,14 @@ public class MovementLogic : MonoBehaviour
         float horizontalAxis = Input.GetAxis("Horizontal");
         float xMovement = Mathf.Sign(horizontalAxis) * Mathf.Ceil(Mathf.Abs(horizontalAxis));
         Vector2 currentVelocity = rigidbody.velocity;
-
-		GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
-
-		if (horizontalAxis <= -0.01)
-			transform.localScale = new Vector3(-1, 1, 1);
-		else if(horizontalAxis>=0.01)
-			transform.localScale = new Vector3(1, 1, 1);
-
-		if (Mathf.Abs(xMovement) >= 0.1F)
+        if (Mathf.Abs(xMovement) >= 0.1F)
         {
             currentDamping = 1;
-        }
-        else
+        } else
         {
             currentDamping -= Time.deltaTime * damping;
-            currentDamping = Mathf.Clamp01(currentDamping);
+            currentDamping = Mathf.Clamp01(currentDamping); 
         }
-
-
 
         float maxVelocity = currentDamping * Mathf.Abs(xMaxInputVelocity);
         float targetXVelocity = Mathf.Clamp(currentVelocity.x + xMovement, -maxVelocity, maxVelocity);
