@@ -30,7 +30,7 @@ public class HideLogic : MonoBehaviour
     {
         if (debug)
         {
-            if (Input.GetKeyDown(KeyCode.T))
+            if (Input.GetKeyDown(KeyCode.R))
                Hide();
         }
     }
