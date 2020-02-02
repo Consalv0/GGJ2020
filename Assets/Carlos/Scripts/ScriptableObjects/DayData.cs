@@ -22,5 +22,10 @@ public class DayData : ScriptableObject
     {
         goodDays++;
     }
+    public void Reset()
+    {
+        badDays=0;
+        goodDays=0;
+    }
     
 }

@@ -8,6 +8,6 @@ public class DataManager : MonoBehaviour
 
     void Start()
     {
-        data=new DayData();
+        data.Reset();
     }
 }

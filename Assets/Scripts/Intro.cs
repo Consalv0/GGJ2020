@@ -21,7 +21,7 @@ public class Intro : MonoBehaviour
 		}
 		else
 		{
-			SceneManager.LoadScene("Menu");
+			SceneManager.LoadScene(2);
 		}
 
 	}
