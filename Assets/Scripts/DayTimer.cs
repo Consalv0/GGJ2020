@@ -30,6 +30,9 @@ public class DayTimer : MonoBehaviour
     [SerializeField]
     private Text daysLeft;
 
+    [SerializeField]
+    public MusicManager music;
+
 
     // Update is called once per frame
     void Update()
@@ -73,6 +76,8 @@ public class DayTimer : MonoBehaviour
             }
         }
 
+        music.playM = true;
+
     }
 
     public void CountDown()
@@ -94,6 +99,8 @@ public class DayTimer : MonoBehaviour
             {
                 //Game Over
             }
+
+            music.playM = true;
         }
 
         string realTime = string.Format("{0}:{1:00}", (int)timer / 60, (int)timer % 60);
