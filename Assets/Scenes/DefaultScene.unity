@@ -518,6 +518,7 @@ MonoBehaviour:
   neutralMusic: {fileID: 8300000, guid: 1ed6408e4151b6d4ca1281cc2a11d817, type: 3}
   audio: {fileID: 0}
   day: {fileID: 1550947585}
+  playM: 0
 --- !u!4 &659653959
 Transform:
   m_ObjectHideFlags: 0
@@ -1464,6 +1465,7 @@ MonoBehaviour:
   goodDays: 0
   timeLeft: {fileID: 1258313900}
   daysLeft: {fileID: 324262074}
+  music: {fileID: 659653958}
 --- !u!4 &1550947586
 Transform:
   m_ObjectHideFlags: 0
