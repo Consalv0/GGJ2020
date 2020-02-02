@@ -44,6 +44,14 @@ public class DayTimer : MonoBehaviour
     void Update()
     {
         CountDown();
+        //if (Input.GetKeyDown(KeyCode.O))
+        //{
+        //    SkipDay(true);
+        //}
+        //if (Input.GetKeyDown(KeyCode.I))
+        //{
+        //    SkipDay(false);
+        //}
     }
 
     void DaysLeft()
@@ -75,9 +83,17 @@ public class DayTimer : MonoBehaviour
             if(goodDays > badDays)
             {
                 //Good Ending
+                //goodDays = 0;
+                //badDays = 0;
+                //days = 0;
+                //timer = totalTime;
             }
             else
             {
+                //goodDays = 0;
+                //badDays = 0;
+                //days = 0;
+                //timer = totalTime;
                 //Bad Ending
             }
         }
