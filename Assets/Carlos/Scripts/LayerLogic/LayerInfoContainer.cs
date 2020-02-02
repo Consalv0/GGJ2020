@@ -4,8 +4,18 @@ using UnityEngine;
 
 public class LayerInfoContainer : MonoBehaviour
 {
+    public string animationTrigger;
+    public int layerToGo;
 
-    public LayerMask layerToGo;
-    public Transform PointToGo;
+
+    public bool CanModify(int currentLayer)
+    {
+        
+        if(currentLayer!=layerToGo)
+        {
+           return true;
+        }
+        return false;
+    }
 
 }

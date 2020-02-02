@@ -2,9 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.Events;
 public class Catch : MonoBehaviour
 {
+    [SerializeField] AudioClip clip;
     [SerializeField] float radius;
     [SerializeField] float minRadius;
 
@@ -14,10 +15,12 @@ public class Catch : MonoBehaviour
     Path pathScript;
     float dist;
     private Vector3? targetLastPosition = null;
-
+    public UnityEvent loseEvent;
     bool search;
 
     HideLogic cat;
+
+    bool catched = false;
     // Start is called before the first frame update
 
     void Start()
@@ -44,7 +47,7 @@ public class Catch : MonoBehaviour
 
         if (dist <= radius && !search && !cat.hide)
         {
-            
+
             search = true;
             pathScript.detect = false;
         }
@@ -87,8 +90,11 @@ public class Catch : MonoBehaviour
             pathScript.detect = false;
             return;
         }
-        if (dist <= minRadius)
+        if (dist <= minRadius && !catched)
         {
+            catched = true;
+            AudioSource.PlayClipAtPoint(clip, cat.transform.position);
+            loseEvent.Invoke();
             Debug.Log("Te tengo");
         }
     }

@@ -6,6 +6,7 @@ public class HideLogic : MonoBehaviour
 {
 
     private Animator animator;
+    public bool canHide;
     public bool hide;
     public bool debug;
 
@@ -15,6 +16,8 @@ public class HideLogic : MonoBehaviour
     }
     public void Hide()
     {
+        if(!canHide)
+        return;
         animator.SetBool("Hide",true);
         hide = true;
     }

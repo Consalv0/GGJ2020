@@ -23,7 +23,11 @@ public class MovementLogic : MonoBehaviour
         Vector2 currentVelocity = rigidbody.velocity;
         
         if(horizontalAxis!=0)
-        GetComponent<Animator>().SetBool("Hide",false);
+        {
+             GetComponent<Animator>().SetBool("Hide",false);
+             GetComponent<HideLogic>().hide=false;
+        }
+       
 		GetComponent<Animator>().SetFloat("Speed", Mathf.Abs(horizontalAxis));
 
 		if (currentVelocity.x <= -0.01F)

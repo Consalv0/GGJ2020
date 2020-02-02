@@ -33,7 +33,13 @@ public class DayTimer : MonoBehaviour
     [SerializeField]
     public MusicManager music;
 
+    [SerializeField] DayData data;
 
+    public void Start()
+    {
+        badDays=data.badDays;
+        goodDays=data.goodDays;
+    }
     // Update is called once per frame
     void Update()
     {
