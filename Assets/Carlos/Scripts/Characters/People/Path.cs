@@ -27,8 +27,6 @@ public class Path : MonoBehaviour
 
         if (!detect)
         {
-
-
             if (currentPoint > wayPoints.Count - 1)
             {
                 currentPoint = 0;
@@ -36,7 +34,7 @@ public class Path : MonoBehaviour
             }
             canStop = wayPoints[currentPoint].stop;
             Vector3 vector = wayPoints[currentPoint].points.position - transform.position;
-
+            vector = new Vector3(vector.x, 0, vector.z);
             transform.Translate(vector.normalized * speed * Time.deltaTime, Space.World);
 
             if (Vector3.Distance(transform.position, wayPoints[currentPoint].points.position) < limitDistance)

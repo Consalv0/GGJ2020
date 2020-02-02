@@ -10,8 +10,7 @@ public class DebugCurrentLayer : MonoBehaviour
     
     void Start()
     {
-        if(!debug)
-        layerText.transform.parent.gameObject.SetActive(false);
+        
     }
     // Update is called once per frame
     void Update()

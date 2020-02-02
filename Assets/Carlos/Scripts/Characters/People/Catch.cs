@@ -22,7 +22,7 @@ public class Catch : MonoBehaviour
 
     void Start()
     {
-        cat=target.GetComponent<HideLogic>();
+        cat = target.GetComponent<HideLogic>();
     }
     void OnDrawGizmosSelected()
     {
@@ -42,12 +42,11 @@ public class Catch : MonoBehaviour
         dist = Vector3.Distance(target.localPosition, gameObject.transform.position);
         //        Debug.Log(dist);
 
-        if (dist <= radius && !search&&!cat.hide)
+        if (dist <= radius && !search && !cat.hide)
         {
-            if (targetLastPosition == null)
-                targetLastPosition = target.transform.position;
+            
             search = true;
-
+            pathScript.detect = false;
         }
         if (search)
             SearchForLastPosition();
@@ -56,7 +55,7 @@ public class Catch : MonoBehaviour
 
     private void SearchForLastPosition()
     {
-        if(cat.hide)
+        if (cat.hide)
         {
             search = false;
             pathScript.detect = false;
@@ -67,7 +66,8 @@ public class Catch : MonoBehaviour
         //booleano del gato
         Debug.Log("Te veo");
 
-        Vector3 direction = (Vector3)targetLastPosition - transform.position;
+        Vector3 direction = (Vector3)target.transform.position - transform.position;
+        direction = new Vector3(direction.x, 0, direction.z);
         transform.Translate(direction.normalized * speed * Time.deltaTime, Space.World);
         TryToCatch();
 
@@ -81,7 +81,7 @@ public class Catch : MonoBehaviour
     }
     private void TryToCatch()
     {
-         if(cat.hide)
+        if (cat.hide)
         {
             search = false;
             pathScript.detect = false;
